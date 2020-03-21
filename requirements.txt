@@ -1,0 +1,4 @@
+scp
+paramiko
+youtube-dl
+python-telegram-bot
